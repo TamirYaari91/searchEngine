@@ -13,4 +13,5 @@ The search engine works as follows:
 * Results will appear
 * When asked, type Y to search again or N to exit
 
+For your convenience, the animals corpus example is attached using the animals.txt file.
 Thank you!
