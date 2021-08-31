@@ -10,3 +10,4 @@ The search engine works as follows:
 * Run searchEngine using java searchEngine
 * When asked, enter the name of the file and hit Enter
 ** Test
+* Test
