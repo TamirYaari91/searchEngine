@@ -135,12 +135,12 @@ public class searchEngine {
     public static void main(String[] args) {
         boolean active = true;
         Scanner keyboard = new Scanner(System.in);
-        System.out.println("Enter filename:");
+        System.out.println("Enter file name:");
         String filename = keyboard.nextLine();
         FileReader fileReader = filenameToFile(filename);
         while (fileReader == null) {
             System.out.println("File not found! Please try again.");
-            System.out.println("Enter filename:");
+            System.out.println("Enter file name:");
             filename = keyboard.nextLine();
             fileReader = filenameToFile(filename);
         }
