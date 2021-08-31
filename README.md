@@ -8,6 +8,9 @@ Thank you for taking the time to review my work. Here are some assumptions that 
 The search engine works as follows:
 * Compile searchEngine.java using javac SearchEngine.java 
 * Run searchEngine using java searchEngine
-* When asked, enter the name of the file and hit Enter
-** Test
-* Test
+* When asked, type the name of the file and hit Enter
+* When asked, type the desired query and hit Enter
+* Results will appear
+* When asked, type Y to search again or N to exit
+
+Thank you!
