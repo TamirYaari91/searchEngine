@@ -10,7 +10,7 @@ The search engine works as follows:
 * Run searchEngine using java searchEngine
 * When asked, type the name of the file and hit Enter
 * When asked, type the desired query and hit Enter
-* Results will appear
+* Results will appear, separated by "---".
 * When asked, type Y to search again or N to exit
 
 For your convenience, the animals corpus example is attached using the animals.txt file.
