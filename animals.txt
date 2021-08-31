@@ -1,0 +1,5 @@
+{"1": "This cat is a pet"}
+{"2": "I have a cat and a dog"}
+{"3": "Which pet do you prefer, a cat or a dog?"}
+{"4": "I have a cat"}
+{"5": "My dog is not a pet!"}
